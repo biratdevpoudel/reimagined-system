@@ -1,1 +1,1 @@
-###  Created a CRUD To-do list app with React Hooks, which allowed for code to be clear, concise, and straightforward.
+###  Created a CRUD To-do list app with React Hooks, which allowed for code to be clear, concise, and straight forward.
